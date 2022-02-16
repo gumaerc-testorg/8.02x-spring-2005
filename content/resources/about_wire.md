@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource gives information on different types of wire.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/147b95a16b8586ead5323ccc976d060c_about_wire.pdf
+file: /media/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/147b95a16b8586ead5323ccc976d060c_about_wire.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: about_wire.pdf
 uid: 147b95a1-6b85-86ea-d532-3ccc976d060c
