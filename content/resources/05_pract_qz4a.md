@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c62bf1ba-c93a-1174-a4ef-d24a2de4113d
 resourcetype: Document
 title: 05_pract_qz4a.pdf
 uid: bbaf44b2-b08b-8426-3c65-407f41e4b6d6

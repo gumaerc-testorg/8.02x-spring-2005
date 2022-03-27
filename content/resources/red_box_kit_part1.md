@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2a9e2ec2-d100-6d71-9e86-a3a1e2740115
 resourcetype: Document
 title: red_box_kit_part1.pdf
 uid: 4c7b1943-9bf6-f5b2-d147-a8cbacfb70a0

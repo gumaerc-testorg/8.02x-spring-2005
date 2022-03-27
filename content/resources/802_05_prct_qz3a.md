@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c62bf1ba-c93a-1174-a4ef-d24a2de4113d
 resourcetype: Document
 title: 802_05_prct_qz3a.pdf
 uid: 4490b34b-6cc6-f064-cd36-b2c54f284203

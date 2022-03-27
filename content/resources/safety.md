@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2a9e2ec2-d100-6d71-9e86-a3a1e2740115
 resourcetype: Document
 title: safety.pdf
 uid: 1d6b8101-d722-796f-5c3e-95c00ced4952

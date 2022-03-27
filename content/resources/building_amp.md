@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2a9e2ec2-d100-6d71-9e86-a3a1e2740115
 resourcetype: Document
 title: building_amp.pdf
 uid: f1c75a41-4a36-2987-e9c6-7a4b37b0327a

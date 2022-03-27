@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 2a9e2ec2-d100-6d71-9e86-a3a1e2740115
 resourcetype: Document
 title: volt_curr_resis.pdf
 uid: 5575cb5f-0ae7-125e-e5a0-466cd4b2b676

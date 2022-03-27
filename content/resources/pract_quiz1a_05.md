@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c62bf1ba-c93a-1174-a4ef-d24a2de4113d
 resourcetype: Document
 title: pract_quiz1a_05.pdf
 uid: 3a701a1b-4b88-c103-ecea-5b87f4a97efd

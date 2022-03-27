@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 25e4986e-5dc6-a36f-5ec2-32573b2d001b
 resourcetype: Document
 title: 802x_05_mf_sol.pdf
 uid: f66f9895-0b00-fe22-a830-6897d373ea1c
