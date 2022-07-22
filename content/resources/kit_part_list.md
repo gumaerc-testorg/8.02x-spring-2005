@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/41b6cdf0dabf4d048c5d6feeb86f15fa_kit_part_list.pdf
+file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/41b6cdf0dabf4d048c5d6feeb86f15fa_kit_part_list.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
