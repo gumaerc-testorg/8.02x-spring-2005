@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Information about the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
