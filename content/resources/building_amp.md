@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on building amplifier, voltage devider
   for lvps, and negative feedback.
 file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/f1c75a414a362987e9c67a4b37b0327a_building_amp.pdf
+file_size: 520720
 file_type: application/pdf
 learning_resource_types:
 - Labs

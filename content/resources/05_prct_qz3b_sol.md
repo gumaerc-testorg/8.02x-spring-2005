@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problem based on lorentz force, biot savart, lenz
   law, and faradays law.
 file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/5f6491213f494f880ac8dea18da09fda_05_prct_qz3b_sol.pdf
+file_size: 454413
 file_type: application/pdf
 learning_resource_types:
 - Exams
