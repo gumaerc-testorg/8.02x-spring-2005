@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/60c9388a150a051319e22fb3ffd516d4_pract_qz1a_sol.pdf
+file_size: 94548
 file_type: application/pdf
 learning_resource_types:
 - Exams

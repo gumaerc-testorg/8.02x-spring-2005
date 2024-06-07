@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource provide solutions to problem set 4b.
 file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/761a649e0fc29c8a791539b0beb829a6_05_prct_qz4b_sol.pdf
+file_size: 91366
 file_type: application/pdf
 learning_resource_types:
 - Exams
