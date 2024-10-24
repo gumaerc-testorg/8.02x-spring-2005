@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on measuring voltage, resistance and
   current with the multimeter, about magic multimeter, and dc voltage ranges.
-file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/906477ec6cf70d63f404c46e1bf9e38c_exer_mulitimeter.pdf
+file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/906477ec6cf70d63f404c46e1bf9e38c_exer_mulitimeter.pdf
 file_size: 727654
 file_type: application/pdf
 learning_resource_types:
