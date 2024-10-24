@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provide review for practice quiz 2.
-file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/e33598c4e6385783c8ca716f87f2f107_quiz2_review.pdf
+file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/e33598c4e6385783c8ca716f87f2f107_quiz2_review.pdf
 file_size: 177222
 file_type: application/pdf
 learning_resource_types:

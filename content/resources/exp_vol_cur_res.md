@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on resistors, and lamps, voltage devider,
   and charging of capacitor.
-file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/8c87c5ffd0d422c191f3ae36c11c9acd_exp_vol_cur_res.pdf
+file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/8c87c5ffd0d422c191f3ae36c11c9acd_exp_vol_cur_res.pdf
 file_size: 250822
 file_type: application/pdf
 learning_resource_types:
