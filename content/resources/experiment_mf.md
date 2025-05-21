@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource gives information on force equation.
-file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/99dbeb6cf780bea19357edfebc0a7ba9_experiment_mf.pdf
+file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/99dbeb6cf780bea19357edfebc0a7ba9_experiment_mf.pdf
 file_size: 312470
 file_type: application/pdf
 learning_resource_types:

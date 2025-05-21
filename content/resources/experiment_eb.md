@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on impact ionization, electrical breakdown
   of air, and spark gap.
-file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/ecb0db9176aee59873ea4e5d0acfd96f_experiment_eb.pdf
+file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/ecb0db9176aee59873ea4e5d0acfd96f_experiment_eb.pdf
 file_size: 397332
 file_type: application/pdf
 learning_resource_types:
