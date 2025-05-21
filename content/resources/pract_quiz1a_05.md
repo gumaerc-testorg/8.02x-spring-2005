@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on electricity and magnetism.
-file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/3a701a1b4b88c103ecea5b87f4a97efd_pract_quiz1a_05.pdf
+file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/3a701a1b4b88c103ecea5b87f4a97efd_pract_quiz1a_05.pdf
 file_size: 107441
 file_type: application/pdf
 learning_resource_types:

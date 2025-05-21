@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/151d95328b46e5cb4092a3fbaded190d_practquiz2_sol.pdf
+file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/151d95328b46e5cb4092a3fbaded190d_practquiz2_sol.pdf
 file_size: 94235
 file_type: application/pdf
 learning_resource_types:
