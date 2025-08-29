@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provide solutions to problem set 4.
-file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/4aedc958588febe16d61e98aea840398_quiz4sol.pdf
+file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/4aedc958588febe16d61e98aea840398_quiz4sol.pdf
 file_size: 104996
 file_type: application/pdf
 learning_resource_types:

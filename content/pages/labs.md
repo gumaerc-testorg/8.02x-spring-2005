@@ -6,7 +6,7 @@ description: Each partnership of two students will build and use 9 experiments. 
   as well as in each of the 4 quizzes in the exams section. Early check-off of the
   experiments will be awarded bonus points.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 2a9e2ec2-d100-6d71-9e86-a3a1e2740115
