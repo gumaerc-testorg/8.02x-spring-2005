@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource gives information on soldering iron, soldering wires, clip
   leads, and alligator clip.
-file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/907ce49a9ad65341896c9cbc6d48a061_about_soldering.pdf
+file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/907ce49a9ad65341896c9cbc6d48a061_about_soldering.pdf
 file_size: 228364
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

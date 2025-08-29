@@ -2,7 +2,7 @@
 content_type: resource
 description: Setup for the electrical breakdown experiment. (Image courtesy of Prof.
   Gunther Roland.)
-file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/6e2e8b08174d59dd5cdf902814a39d66_Untitled1.jpg
+file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/6e2e8b08174d59dd5cdf902814a39d66_Untitled1.jpg
 file_size: 66675
 file_type: image/jpeg
 image_metadata:
