@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource gives information on wall transformer, bridge rectifier,
   and voltage regulator.
-file: /courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/f07f329e0ed82e1413631ba4091f4bf7_building_lvps.pdf
+file: /ol-ocw-studio-app/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/f07f329e0ed82e1413631ba4091f4bf7_building_lvps.pdf
 file_size: 987352
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
