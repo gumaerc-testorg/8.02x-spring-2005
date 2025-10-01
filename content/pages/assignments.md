@@ -10,7 +10,7 @@ uid: 25e4986e-5dc6-a36f-5ec2-32573b2d001b
 
 Due dates for the assignments and experiments can be found in the {{% resource_link d1b881f1-cae0-4ae1-271b-84bc93e99b5c "calendar" "#calendar" %}} on the syllabus page.
 
-There are three types of assignments for this class: problem sets, [Mastering Physics](http://www.masteringphysics.com/) assignments (not available to OCW users) and experiments (located in the {{% resource_link 2a9e2ec2-d100-6d71-9e86-a3a1e2740115 "labs" %}} section) which must be completed and checked off during lab hours. Several of the problem sets contain questions about the experiments.
+There are three types of assignments for this class: problem sets, {{% resource_link "fd6139b0-7564-422d-b7ab-264364831e62" "Mastering Physics" %}} assignments (not available to OCW users) and experiments (located in the {{% resource_link 2a9e2ec2-d100-6d71-9e86-a3a1e2740115 "labs" %}} section) which must be completed and checked off during lab hours. Several of the problem sets contain questions about the experiments.
 
 {{< tableopen >}}
 {{< theadopen >}}

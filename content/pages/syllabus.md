@@ -60,7 +60,7 @@ The take home experiments are a crucial part of the 8.02X experience. Each partn
 Mastering Physics
 -----------------
 
-Registered students will be given access to [Mastering Physics](http://www.masteringphysics.com/), an on-line tutorial and homework system. There will be a total of 10 Cybertutor assignments.
+Registered students will be given access to {{% resource_link "fd6139b0-7564-422d-b7ab-264364831e62" "Mastering Physics" %}}, an on-line tutorial and homework system. There will be a total of 10 Cybertutor assignments.
 
 Note: OCW Users will not be able to access this material.
 
